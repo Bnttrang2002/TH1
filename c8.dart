@@ -1,5 +1,5 @@
 void main() {
-  int a = 2;
+  int a = 4;
   int  b = 6;
   int temp = a;
   a=b;
