@@ -9,4 +9,4 @@ void main(){
   int mul = p*t*r;
   double div = mul/100;
   print("the div is $div");
-}
+} 
