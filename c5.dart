@@ -4,4 +4,4 @@ void main(){
   int a = int.parse(stdin.readLineSync()!);
   var square  = a * a;
   print("$square"); 
-}
+} 
